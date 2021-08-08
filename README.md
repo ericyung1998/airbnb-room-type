@@ -1,6 +1,6 @@
 # airbnb-dataset-exploration
 
-ISOM3400 (Python Programming for Business Analytics): Assignment 3
+ISOM3400 (Python Programming for Business Analytics): Project 3
 - Airbnb NYC dataset derived business insights based on predictive models
 
 <br>
