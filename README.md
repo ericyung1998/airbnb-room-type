@@ -1,7 +1,7 @@
 # airbnb-dataset-exploration
 
 ISOM3400 (Python Programming for Business Analytics): Project 3
-- Airbnb NYC dataset derived business insights based on machine learning models
+- Airbnb NYC room type classification machine learning models
 
 <br>
 
