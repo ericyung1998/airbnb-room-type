@@ -1,4 +1,4 @@
-# airbnb-dataset-exploration
+# airbnb-room-type
 
 ISOM3400 (Python Programming for Business Analytics): Project 3
 - Airbnb NYC room type classification machine learning models
